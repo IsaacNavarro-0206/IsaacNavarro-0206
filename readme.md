@@ -1,51 +1,44 @@
-# Hello! 👋 I'm Isaac Navarro
+# Hi there, I'm Isaac Navarro 👋
 
-### **Systems Engineer | Full-Stack Developer with a passion for learning**
-
-I'm a versatile developer with experience in **Frontend** and **Backend**. My superpower is adapting quickly to new challenges: *if I don’t know it today, I’ll master it by tomorrow* 💡. **Currently diving deep into C# (.NET) and polishing my English skills!**
-
----
-
-### 🛠️ Technologies I Use Daily
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) <!-- Updated to MySQL -->
-
-**Constantly learning:**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) <!-- Added .NET -->
+### Systems Engineer | Full Stack Developer
+Systems engineer focused on building scalable, high-performance web applications. Specialist in the **React ecosystem** for dynamic interfaces and in **NestJS** for robust backend architectures.
 
 ---
 
-### 📚 Courses & Certifications
-- **ReactJS** – Platzi  
-- **NextJS** – Platzi  
-- **ReactJS with TailwindCSS** – Platzi  
-- **Clean Code and Best Practices with JavaScript** – Platzi
+### 🚀 Experience
+
+**Web Developer @ Guarapo Labs** | *May 2025 – Present*
+* Processed over **900,000 records** without system downtime by developing a high-capacity data ingestion system using NestJS and Redis.
+* Ensured **100% data integrity** and security for critical database operations by implementing robust transactions with TypeORM.
+* Enhanced marketing and sales automation by integrating contact management through the **ActiveCampaign v3 API**.
+
+**Frontend Developer @ Carvajal tecnología y servicios** | *Aug 2022 – Nov 2023*
+* Improved mobile accessibility and user retention by building high-performance, fully responsive interfaces with **Material UI**.
+* Reduced data entry errors through the development of dynamic forms and structured validation schemas using **React Hook Form and Yup**.
+* Maintained software stability by resolving critical bugs and blockers in agile collaboration with the QA team.
+* Expanded global reach by implementing bilingual support (**i18next**) for multinational clients like **Samsung and Nestlé**.
+* Accelerated user adoption by designing an interactive onboarding tour with **react-joyride**.
 
 ---
 
-### 💼 Featured Projects
+### 🛠️ Skills
 
-| Project | Tech Stack | What I Learned |
-|----------|------------|-------------|
-| [APV - Veterinary](https://github.com/tu-usuario/apv) | React · Tailwind · Node.js | Scalable architecture and API integration |
-| [Travel Agency](https://github.com/tu-usuario/agencia-viajes) | Bootstrap · MySQL · Express | Responsive design and database optimization |
+* **Frontend Core:** React (18/19), TypeScript, Vite, Tailwind CSS 4.
+* **Backend & Data:** NestJS, Node.js, Redis, MySQL, TypeORM.
+* **UI Libraries:** Shadcn/ui, Ant Design, Material UI.
+* **Architecture:** Batch Processing, Queues (Redis Streams), Cron Jobs, Zod/Yup.
+* **Ecosystem:** TanStack (Query/Table), Zustand, React Hook Form.
 
 ---
 
-### 🚀 My Development Philosophy
+### 📁 Projects & Education
 
-```javascript
-const isaac = {
-  code: "Clean & Efficient",
-  learning: ["C# & .NET", "Design patterns", "English fluency", "Updated courses on React and TailwindCSS"], // Updated here
-  mindset: "Solving problems > Memorizing syntax"
-};
+* **Cógeme un número:** Developed an end-to-end digital solution for raffle management, building a scalable architecture with NestJS, React, Tailwind, and MySQL.
+* **Systems Engineering:** Universidad Simón Bolívar (2018-2023).
+
+---
+
+### 📫 Contact Me
+
+* **Email:** isaacnavarro2000@gmail.com
+* **Phone:** +57 3006309538
