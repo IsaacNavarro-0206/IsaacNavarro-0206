@@ -17,8 +17,8 @@ Software engineer specializing in **React** and **Next.js** frontends, with hand
 
 **Frontend Developer @ Carvajal Tecnología y Servicios** · *Aug 2022 – Nov 2023 (Intern until Jan 2023)*
 
-- Built the frontend for 4 admin modules of a B2B retail analytics platform used by 10+ large consumer goods and retail companies, with **React** and **Material UI**.
-- Built sales and inventory dashboards with **Chart.js**, replacing static numbers with live data.
+- Built the frontend for 5+ admin modules of a B2B retail analytics platform used by 10+ large consumer goods and retail companies, with **React** and **Material UI**.
+- Implemented single sign-on (SSO) to **Qlik Cloud** with **JWT**, so clients could open their analytics dashboards without logging in again.
 - Added an interactive product tour with **react-joyride** to help new users learn the platform.
 
 ---
