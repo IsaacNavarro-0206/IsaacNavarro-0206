@@ -17,7 +17,7 @@ Software engineer specializing in **React** and **Next.js** frontends, with hand
 
 **Frontend Developer @ Carvajal Tecnología y Servicios** · *Aug 2022 – Nov 2023 (Intern until Jan 2023)*
 
-- Built the frontend for 4 admin modules of a B2B retail analytics platform used by 10+ large companies, including Samsung, Nestlé and Colgate, with **React** and **Material UI**.
+- Built the frontend for 4 admin modules of a B2B retail analytics platform used by 10+ large consumer goods and retail companies, with **React** and **Material UI**.
 - Built sales and inventory dashboards with **Chart.js**, replacing static numbers with live data.
 - Added an interactive product tour with **react-joyride** to help new users learn the platform.
 
@@ -50,4 +50,4 @@ Software engineer specializing in **React** and **Next.js** frontends, with hand
 ### 📫 Contact
 
 - **Email:** isaacnavarro2000@gmail.com
-- **LinkedIn:** [isaac-navarro-hernández](https://www.linkedin.com/in/isaac-navarro-hern%C3%A1ndez-a7b521231/)
+- **LinkedIn:** [linkedin.com/in/isaac-navarro-dev](https://www.linkedin.com/in/isaac-navarro-dev)
